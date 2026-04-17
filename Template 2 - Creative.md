@@ -10,11 +10,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Your+Name]&fontColor=fff&fontSize=48)
 
 <!-- INTRO — Write this like you're talking to a new friend. -->
-### Hey there! I'm [Your Name] 👋
+### Hey there! I'm [Emmanuel] 👋
 
-> [A short quote or motto that represents you — or just delete this line]
+> [CS Student]
 
-I'm a **[year]-year Computer Science student** at [University].
+I'm a **[3rd]-year Computer Science student** at [Angeles University Foundation].
 I love turning ideas into code, especially when it involves [your interest].
 
 ---
@@ -24,10 +24,10 @@ I love turning ideas into code, especially when it involves [your interest].
      This shows visitors you're actively growing.             -->
 ## What I'm up to
 
-- 🔨 Building → [current project or idea]
-- 📖 Learning → [language, framework, or concept]
+- 🔨 Building → [Thesis]
+- 📖 Learning → [Habitat modelling/mapping]
 - 🤝 Open to → [internships / collaborations / open source]
-- 🎯 Goal this year → [your 2025 goal, e.g. land my first internship]
+- 🎯 Goal this year → [Finish thesis]
 
 ---
 
@@ -67,15 +67,13 @@ Who is it for? What was the hardest part to build?]
 <!-- FUN STUFF — Optional section. Shows personality! -->
 ## A little more about me
 
-```
 const [yourName] = {
-  pronouns:    "[he/him | she/her | they/them]",
-  university:  "[University Name]",
+  pronouns:    "[they/them]",
+  university:  "[Angeles University Foundation]",
   loves:       ["coding", "[hobby]", "[hobby]"],
   currentMood: "[your current mood or status]",
   askMeAbout:  ["[topic]", "[topic]", "[topic]"]
 }
-```
 
 ---
 
