@@ -7,7 +7,7 @@
 <!-- HEADER BANNER
      Optional: generate a custom banner at https://capsule-render.vercel.app
      Then replace the URL below with your generated image link. -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Your+Name]&fontColor=fff&fontSize=48)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Emmanuel]&fontColor=fff&fontSize=48)
 
 <!-- INTRO — Write this like you're talking to a new friend. -->
 ### Hey there! I'm [Emmanuel] 👋
@@ -15,7 +15,7 @@
 > [CS Student]
 
 I'm a **[3rd]-year Computer Science student** at [Angeles University Foundation].
-I love turning ideas into code, especially when it involves [your interest].
+I love turning ideas into code, especially when it involves [data science].
 
 ---
 
@@ -53,6 +53,8 @@ I love turning ideas into code, especially when it involves [your interest].
 <!-- FEATURED PROJECT
      Pick ONE project you're proudest of and tell its story.
      What problem did it solve? What did you learn?          -->
+
+```
 ## Featured project
 
 ### [Project Name] — [one-line description]
@@ -63,15 +65,16 @@ Who is it for? What was the hardest part to build?]
 🔗 [View repo](https://github.com/yourusername/repo) &nbsp;|&nbsp; 🌐 [Live demo](https://yourproject.com)
 
 ---
+```
 
 <!-- FUN STUFF — Optional section. Shows personality! -->
 ## A little more about me
 
-const [yourName] = {
+const [emmanuel] = {
   pronouns:    "[they/them]",
   university:  "[Angeles University Foundation]",
-  loves:       ["coding", "[hobby]", "[hobby]"],
-  currentMood: "[your current mood or status]",
+  loves:       ["coding", "[gaming]", "[art]"],
+  currentMood: "[tired]",
   askMeAbout:  ["[topic]", "[topic]", "[topic]"]
 }
 
